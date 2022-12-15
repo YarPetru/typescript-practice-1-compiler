@@ -1,0 +1,14 @@
+{
+  "name": "course-starting-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "repository": "https://github.com/YarPetru/typescript-practice-2-compiler",
+  "author": "Yaroslav Petrukhin <yar.petrukhin@gmail.com>"
+}
